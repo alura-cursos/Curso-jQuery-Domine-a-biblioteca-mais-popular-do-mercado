@@ -1,6 +1,7 @@
 .campo-digitacao {
     font-size: 20px;
     height: 130px;
+    border: 3px solid black;
 }
 
 .frase {
